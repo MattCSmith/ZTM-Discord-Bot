@@ -1,7 +1,7 @@
 {
   "name": "discordbot",
   "version": "1.0.0",
-  "description": "First Discord Bot",
+  "description": "Simple Discord bot for the ZTM Discord server",
   "main": "bot.js",
   "author": "Matt Smith",
   "license": "ISC",
