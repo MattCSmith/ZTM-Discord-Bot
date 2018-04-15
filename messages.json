@@ -1,0 +1,163 @@
+{
+    "channelHelp": {
+        "embed": {
+            "author": {
+            "name": "** HELP **"
+            },
+
+            "description": "The following help topics are avaialble. Type the command as you see it, example: `!codeblocks`",
+            "color": 2743241,
+            
+            "fields": [
+            {
+                "name": "**!links**",
+                "value": "```\n\nProvides a list of useful links and resources```"
+            },
+            {
+                "name": "**!markdown**",
+                "value": "```\n\nDetails Discords markdown and post formatting```"
+            },
+            {
+                "name": "**!codeblocks**",
+                "value": "```\n\nHow to post code in discord```"
+            }
+            ]
+        }
+        },
+
+        "links": {
+            "embed": {
+                "author": {
+                "name": "** USEFUL LINKS **"
+                },
+                "description": "[Website](https://zerotomastery.io) \n[Github](https://zerotomastery.io) \n[Coding Challenge](https://zerotomastery.io) \n[Resources](https://zerotomastery.io)",
+                "color": 2743241
+            }
+        },
+
+        "markdown": {
+            "embed": {
+                "author": {
+                "name": "** Markdown **"
+                },
+                "description": "Discord uses markdown for basic post styling. Please see <https://gist.github.com/ringmatthew/9f7bbfd102003963f9be7dbcf7d40e51> for more information",
+                "color": 2743241
+            }
+        },
+
+        "codeBlocks": {
+            "embed": {
+                "author": {
+                "name": "** CODE BLOCKS **"
+                },
+                "image": {
+                "url": "https://support.discordapp.com/hc/en-us/article_attachments/211601448/HelloWorldForm.png"
+                },
+                "description": "Use code blocks for small simple code snippets. Please use codepen for larger snippets \n``` To use a code snippet surround your code with three back ticks```",
+                "color": 2743241
+            }
+        },
+
+        "tagging": {
+            "embed": {
+                "author": {
+                "name": "** TAGGING PEOPLE & GROUPS **"
+                },
+                "image": {
+                },
+                "description": "By using the @ symbol you can mention another user, for example '@Rusty'. \n\n You are also able to tag user roles, for example you could tag the Managment Team using '@Management Team' \n\n ``` ** FAIR WARNING ** \nMentioning a user/group sends a direct notication to a users desktop/mobile device, please use this method responsibly```",
+                "color": 2743241
+            }
+        },
+
+        "rules": {
+            "embed": {
+                "author": {
+                "name": "** RULES **",
+                "url": "https://zerotomastery.io",
+                "icon_url": "https://cdn.discordapp.com/attachments/433413771982012421/434490807303667713/zeroToMasteryIcon.png"
+                },
+                "image": {
+                "url": "https://cdn.discordapp.com/attachments/433413771982012421/434490807303667713/zeroToMasteryIcon.png"
+                },
+
+                
+                "description": "Welcome to the new and improved Zero to Mastery's Discord Community and we are delighted to have you apart of this amazing community. Moving to discord has been a huge step for the community, but one we feel is the right move. Lifting the limitations and restrictions slack held over the large community base.",
+                "color": 2743241,
+                
+                "fields": [
+                {
+                    "name": "== **Need Help?** ==",
+                    "value": "```\n\nWe appriate that Discord is slightly different from slack and may take some adjusting to. Luckily Rusty is programmed to assist you with the changes in discord. Type 'help' into the chat box below for help topics\n\n```"
+                },
+                {
+                    "name": "== **Rules** ==",
+                    "value": "```1. Rule One \n2. Rule2 \n3. Rule 3```"
+                },
+                {
+                    "name": "== **Useful Links** ==",
+                    "value": "* [Website](http://zerotomastery.io) \n* [Github](http://zerotomastery.io)"
+                }
+                ]
+            }
+        },
+
+        "welcome": {
+            "embed": {
+                "author": {
+                "name": "Zero to Mastery's Discord Community",
+                "url": "https://zerotomastery.io",
+                "icon_url": "https://cdn.discordapp.com/attachments/433413771982012421/434490807303667713/zeroToMasteryIcon.png"
+                },
+                "image": {
+                "url": "https://cdn.discordapp.com/attachments/433413771982012421/434490807303667713/zeroToMasteryIcon.png"
+                },
+
+                
+                "description": "Welcome to the new and improved Zero to Mastery's Discord Community and we are delighted to have you apart of this amazing community. Moving to discord has been a huge step for the community, but one we feel is the right move. Lifting the limitations and restrictions slack held over the large community base.",
+                "color": 2743241,
+                
+                "fields": [
+                {
+                    "name": "== **Need Help?** ==",
+                    "value": "```\n\nWe appriate that Discord is slightly different from slack and may take some adjusting to. Luckily Rusty is programmed to assist you with the changes in discord. Type 'help' into the chat box below for help topics\n\n```"
+                },
+                {
+                    "name": "== **Rules** ==",
+                    "value": "```1. Rule One \n2. Rule2 \n3. Rule 3```"
+                },
+                {
+                    "name": "== **Useful Links** ==",
+                    "value": "* [Website](http://zerotomastery.io) \n* [Github](http://zerotomastery.io)"
+                }
+                ]
+            }
+        },
+
+        "dmHelp": {
+            "embed": {
+                "author": {
+                "name": "** HELP TOPICS **"
+                },
+
+                
+                "description": "What would you like to know more about. Type the corresponding number into the chat box.",
+                "color": 2743241,
+                
+                "fields": [
+                {
+                    "name": "1. Code Blocks",
+                    "value": "```How to you code blocks and when to use codepen```"
+                },
+                {
+                    "name": "2. Markdown",
+                    "value": "```Using Discords markdown system to style and format posts```"
+                },
+                {
+                    "name": "3. Tagging People",
+                    "value": "```Using @ to get users and groups attention in posts```"
+                }
+                ]
+            }
+        }
+}
